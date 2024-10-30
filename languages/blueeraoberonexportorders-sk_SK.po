@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BLUEERA - OBERON Export orders\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-20 16:20+0000\n"
+"PO-Revision-Date: 2022-06-20 16:22+0000\n"
+"Last-Translator: \n"
+"Language-Team: Slovenčina\n"
+"Language: sk_SK\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: blueeraoberonexportorders"
+
+#. Name of the plugin
+msgid "BLUEERA - OBERON Export orders"
+msgstr "BLUEERA - OBERON Export objednávok"
+
+#. Description of the plugin
+msgid "Export orders from Woocommerce to XML file format for OBERON"
+msgstr ""
+"Export objednávok z Woocommerce do XML formátu pre účtovný program OBERON"
+
+#. URI of the plugin
+msgid "https://oberonconnector.sk/"
+msgstr "https://oberonconnector.sk/"
+
+#. Author of the plugin
+msgid "BLUEERA"
+msgstr "BLUEERA"
+
+#. Author URI of the plugin
+msgid "https://blueera.sk/"
+msgstr "https://blueera.sk/"
